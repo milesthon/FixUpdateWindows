@@ -6,7 +6,6 @@
 ## Fix Update Windows ( 10 , 11 ) | Починить обновления Windows ( 10 , 11 )
 
 <div align="center">
-<img alt="Image" src="https://github.com/MilesthoN/cleare/blob/main/Image.png"/>
 
 ***
 by MilesthoN
